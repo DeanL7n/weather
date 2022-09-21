@@ -1,0 +1,6 @@
+<resources>
+
+    <style name="Widget.Theme.Weather.MyView" parent="">
+        <item name="lineColour">@color/md_theme_dark_onPrimaryContainer</item>
+    </style>
+</resources>

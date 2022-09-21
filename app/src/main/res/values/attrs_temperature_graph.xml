@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="TemperatureGraph">
+        <attr name="lineColour" format="color" />
+    </declare-styleable>
+</resources>
